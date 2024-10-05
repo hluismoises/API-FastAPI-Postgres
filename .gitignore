@@ -1,0 +1,8 @@
+# Ignorar archivos de log
+*.log
+
+# Ignorar directorios de entorno virtual
+venv/
+
+# Ignorar archivos de configuración
+config.json
